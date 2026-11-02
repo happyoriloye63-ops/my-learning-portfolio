@@ -1,0 +1,17 @@
+# MY TECHNICAL SKILLS
+
+1. **HTML (HyperText Markup Language)** – Creating the structure and content of web pages.
+
+2. **CSS (Cascading Style Sheets)** – Styling web pages, layouts, colours, and responsive designs.
+
+3. **JavaScript** – Adding interactivity and dynamic functionality to websites.
+
+4. **Git and GitHub** – Managing source code, tracking changes, and collaborating on projects.
+
+5. **React.js** – Building interactive user interfaces using reusable components.
+
+6. **Node.js** – Developing server-side applications and backend APIs.
+
+7. **TypeScript** – Writing structured JavaScript code with static type checking.
+
+8. **MongoDB** – Managing and storing data in a NoSQL database.
